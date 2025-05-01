@@ -1,6 +1,10 @@
 # Ejercicio N° 8
 ## Desarrollo de Software
 ### Herencia y propiedades
+# Integrantes:
+# [3k1] Henriquez Colaccioppo, Josemaria - 58020
+# [3k1] Pizzutto Dip , Isa Luciano - 58579
+# [3k1] Apellido , Nombre - Legajo
 
 1. Realizar una bifurcación (fork) del [repositorio](https://github.com/ing-software-frt-utn/dsw2025ej8)
 2. Crear una rama de larga duración development
